@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IssamAymenAthamena</string>
+
+    <string name="poids">Poids</string>
+    <string name="taille">Taille</string>
+    <string name="metre">Mètre</string>
+    <string name="centimère">Centimère</string>
+    <string name="megafonction">Mega fonction !</string>
+    <string name="calculerIMC">Calculer l\'IMC</string>
+</resources>
